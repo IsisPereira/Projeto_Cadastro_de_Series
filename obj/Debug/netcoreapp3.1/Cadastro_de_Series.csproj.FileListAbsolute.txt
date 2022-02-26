@@ -1,0 +1,27 @@
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.dll
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.pdb
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\bin\Debug\netcoreapp3.1\Cadastro_de_Series.exe
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\bin\Debug\netcoreapp3.1\Cadastro_de_Series.deps.json
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\bin\Debug\netcoreapp3.1\Cadastro_de_Series.runtimeconfig.json
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\bin\Debug\netcoreapp3.1\Cadastro_de_Series.runtimeconfig.dev.json
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\bin\Debug\netcoreapp3.1\Cadastro_de_Series.dll
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\bin\Debug\netcoreapp3.1\Cadastro_de_Series.pdb
+C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\obj\Debug\netcoreapp3.1\Cadastro_de_Series.genruntimeconfig.cache

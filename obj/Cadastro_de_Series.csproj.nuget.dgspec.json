@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Casa\\Desktop\\Fund_com_dot_NET_e_Criando um APP simples\\Proj_Criando_APP_simples\\Projeto_Cadastro_de_Séries\\Cadastro_de_Series\\Cadastro_de_Series.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Casa\\Desktop\\Fund_com_dot_NET_e_Criando um APP simples\\Proj_Criando_APP_simples\\Projeto_Cadastro_de_Séries\\Cadastro_de_Series\\Cadastro_de_Series.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casa\\Desktop\\Fund_com_dot_NET_e_Criando um APP simples\\Proj_Criando_APP_simples\\Projeto_Cadastro_de_Séries\\Cadastro_de_Series\\Cadastro_de_Series.csproj",
+        "projectName": "Cadastro_de_Series",
+        "projectPath": "C:\\Users\\Casa\\Desktop\\Fund_com_dot_NET_e_Criando um APP simples\\Proj_Criando_APP_simples\\Projeto_Cadastro_de_Séries\\Cadastro_de_Series\\Cadastro_de_Series.csproj",
+        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casa\\Desktop\\Fund_com_dot_NET_e_Criando um APP simples\\Proj_Criando_APP_simples\\Projeto_Cadastro_de_Séries\\Cadastro_de_Series\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "netcoreapp6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "netcoreapp6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

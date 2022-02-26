@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = netcoreapp6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cadastro_de_Series
+build_property.ProjectDir = C:\Users\Casa\Desktop\Fund_com_dot_NET_e_Criando um APP simples\Proj_Criando_APP_simples\Projeto_Cadastro_de_Séries\Cadastro_de_Series\
